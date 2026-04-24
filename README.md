@@ -6,7 +6,7 @@ Welcome to my portfolio! This repository showcases my ability to transform raw d
 
 ## Featured Projects
 
-### Project 01: [Netflix Business and Strategic Insights](https://github.com)
+### Project 01: [Netflix Business and Strategic Insights](Project-01_Netflix-Business-and-Strategic-Insights)
 *   **Industry:** OTT/Entertainment.
 *   **Tech Stack:** Python (Kaggle API, Pandas), MySQL, Power BI.
 *   **Highlights:** 
@@ -43,4 +43,4 @@ My projects focus on solving real-world business problems such as:
 
 ## Connect with Me
 *   **LinkedIn:** [Shivam Kumar](https://linkedin.com/in/shivam-kumar-2a0371246)
-*   **Email:** (kshivamar@gmail.com)
+*   **Email:** kshivamar@gmail.com
