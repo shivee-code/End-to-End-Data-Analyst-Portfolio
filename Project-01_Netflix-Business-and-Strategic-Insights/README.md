@@ -68,7 +68,7 @@ Built a high-fidelity, interactive **Netflix-Themed Executive Dashboard** with a
 | `Netflix_ETL_Pipeline.ipynb` | Python script for API ingestion and data cleaning. |
 | `Netflix_Analysis_Queries.sql` | SQL script containing all advanced business queries. |
 | `Netflix_Final_Dashboard.pbix` | Power BI file for the interactive visualization. |
-| `Dashboard_Screenshot.png` | A visual overview of the final BI report. |
+| `Netflix_Dashboard_Screenshot.jpg` | A visual overview of the final BI report. |
 
 ---
 
