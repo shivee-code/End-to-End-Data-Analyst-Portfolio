@@ -1,4 +1,4 @@
-# 🎬 Netflix Business and Strategic Insights | End-to-End Data System
+# Netflix Business and Strategic Insights | End-to-End Data System
 
 [![Python](https://shields.io)](https://python.org)
 [![SQL](https://shields.io)](https://mysql.com)
