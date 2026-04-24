@@ -12,6 +12,11 @@ By demonstrating a **full-stack data workflow**—leveraging **Python** for auto
 
 ---
 
+## Dashboard Preview
+![Dashboard Preview](https://github.com/shivee-code/End-to-End-Data-Analyst-Portfolio/blob/main/Project-01_Netflix-Business-and-Strategic-Insights/Netflix_Executive_Dashboard.pbix)
+
+---
+
 ## Data Architecture & Tech Stack
 *   **Data Sourcing:** Kaggle API (Direct Ingestion into Jupyter Notebook)
 *   **Data Processing:** Python (Pandas, Numpy)
