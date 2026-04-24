@@ -2,9 +2,11 @@
 
 Welcome to my portfolio! This repository showcases my ability to transform raw data into strategic business insights using a full-stack data analytics approach (Python -> SQL -> Power BI).
 
+---
+
 ## Featured Projects
 
-### 1️Project 01: [Netflix Business and Strategic Insights](https://github.com)
+### Project 01: [Netflix Business and Strategic Insights](https://github.com)
 *   **Industry:** OTT/Entertainment.
 *   **Tech Stack:** Python (Kaggle API, Pandas), MySQL, Power BI.
 *   **Highlights:** 
@@ -12,9 +14,9 @@ Welcome to my portfolio! This repository showcases my ability to transform raw d
     *   Advanced SQL analysis with Window Functions and CTEs.
     *   Executive-level Netflix-themed dashboard for content strategy.
  
----
+##
 
-### 2️⃣ Project 02: [Upcoming Project Title]
+### Project 02: [Upcoming Project Title]
 *   **Status:** *In Progress...* ⏳
 *   **Target Industry:** Retail / E-commerce.
 
@@ -37,6 +39,8 @@ My projects focus on solving real-world business problems such as:
 *   Identifying regional market dominance and localization opportunities.
 *   Evaluating platform health through library maturity and growth metrics.
 
-## 📫 Connect with Me
+---
+
+## Connect with Me
 *   **LinkedIn:** [Your LinkedIn Profile Link]
 *   **Email:** [Your Email Address]
