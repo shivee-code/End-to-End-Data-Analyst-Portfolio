@@ -76,6 +76,5 @@ Built a high-fidelity, interactive **Netflix-Themed Executive Dashboard** with a
 
 ---
 
-**Author:** [Your Name]  
-**Role:** Aspiring Data Analyst / BI Developer  
-**Contact:** [Your LinkedIn Profile Link]
+**Role:** Data Analyst / BI Developer  
+**Contact:** [Shivam Kumar](https://www.linkedin.com/in/shivam-kumar-2a0371246/)
