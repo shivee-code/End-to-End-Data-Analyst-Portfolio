@@ -11,7 +11,8 @@ Welcome to my portfolio! This repository showcases my ability to transform raw d
 *   **Highlights:** 
     *   Automated ETL pipeline using Kaggle API.
     *   Advanced SQL analysis with Window Functions and CTEs.
-    *   Executive-level Netflix-themed dashboard for content strategy.
+    *   Executive-level Netflix-themed dashboard for content strategy.<br>
+
 **Tech Stack:** `Python (Kaggle API, Pandas)`, `MySQL`, `Power BI`.
  
 ##
