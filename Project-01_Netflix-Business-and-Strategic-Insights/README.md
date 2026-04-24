@@ -13,7 +13,7 @@ By demonstrating a **full-stack data workflow**—leveraging **Python** for auto
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](https://github.com/shivee-code/End-to-End-Data-Analyst-Portfolio/blob/main/Project-01_Netflix-Business-and-Strategic-Insights/Netflix_Executive_Dashboard.pbix)
+![Dashboard Preview](https://github.com/shivee-code/End-to-End-Data-Analyst-Portfolio/blob/main/Project-01_Netflix-Business-and-Strategic-Insights/Netflix_Dashboard_Screenshot.jpg)
 
 ---
 
