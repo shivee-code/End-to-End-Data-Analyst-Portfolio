@@ -8,11 +8,11 @@ Welcome to my portfolio! This repository showcases my ability to transform raw d
 
 ### [Project 01: Netflix Business and Strategic Insights](Project-01_Netflix-Business-and-Strategic-Insights)
 *   **Industry:** OTT/Entertainment.
-*   **Tech Stack:** Python (Kaggle API, Pandas), MySQL, Power BI.
 *   **Highlights:** 
     *   Automated ETL pipeline using Kaggle API.
     *   Advanced SQL analysis with Window Functions and CTEs.
     *   Executive-level Netflix-themed dashboard for content strategy.
+**Tech Stack:** `Python (Kaggle API, Pandas)`, `MySQL`, `Power BI`.
  
 ##
 
