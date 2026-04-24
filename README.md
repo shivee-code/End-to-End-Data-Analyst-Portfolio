@@ -1,16 +1,18 @@
-# 📊 Professional Data Analysis Portfolio (End-to-End)
+# Professional Data Analysis Portfolio (End-to-End)
 
 Welcome to my portfolio! This repository showcases my ability to transform raw data into strategic business insights using a full-stack data analytics approach (Python -> SQL -> Power BI).
 
 ## Featured Projects
 
-### 1️⃣ Project 01: [Netflix Business and Strategic Insights](https://github.com)
+### 1️Project 01: [Netflix Business and Strategic Insights](https://github.com)
 *   **Industry:** OTT/Entertainment.
 *   **Tech Stack:** Python (Kaggle API, Pandas), MySQL, Power BI.
 *   **Highlights:** 
     *   Automated ETL pipeline using Kaggle API.
     *   Advanced SQL analysis with Window Functions and CTEs.
     *   Executive-level Netflix-themed dashboard for content strategy.
+ 
+---
 
 ### 2️⃣ Project 02: [Upcoming Project Title]
 *   **Status:** *In Progress...* ⏳
