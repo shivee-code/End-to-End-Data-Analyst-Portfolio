@@ -10,10 +10,8 @@ This project delivers a sophisticated **End-to-End Business Intelligence (BI)** 
 
 By demonstrating a **full-stack data workflow**—leveraging **Python** for automated ETL, **MySQL** for scalable data management, and **Power BI** for high-fidelity reporting—the project transforms fragmented data into a **360-degree strategic view**. The primary objective was to uncover actionable insights regarding **Content Acquisition Velocity**, **Global Production Dominance**, and **Audience Targeting Strategies**, enabling a data-driven approach to understanding Netflix’s evolving market position.
 
-
 ---
 
----
 ## Data Architecture & Tech Stack
 *   **Data Sourcing:** Kaggle API (Direct Ingestion into Jupyter Notebook)
 *   **Data Processing:** Python (Pandas, Numpy)
