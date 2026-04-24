@@ -6,7 +6,7 @@ Welcome to my portfolio! This repository showcases my ability to transform raw d
 
 ## Featured Projects
 
-### Project 01: [Netflix Business and Strategic Insights](Project-01_Netflix-Business-and-Strategic-Insights)
+### [Project 01: Netflix Business and Strategic Insights](Project-01_Netflix-Business-and-Strategic-Insights)
 *   **Industry:** OTT/Entertainment.
 *   **Tech Stack:** Python (Kaggle API, Pandas), MySQL, Power BI.
 *   **Highlights:** 
