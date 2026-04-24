@@ -42,5 +42,5 @@ My projects focus on solving real-world business problems such as:
 ---
 
 ## Connect with Me
-*   **LinkedIn:** [Your LinkedIn Profile Link]
-*   **Email:** [Your Email Address]
+*   **LinkedIn:** [Shivam Kumar](https://linkedin.com/in/shivam-kumar-2a0371246)
+*   **Email:** (kshivamar@gmail.com)
